@@ -1,0 +1,47 @@
+﻿CUSTOMER,Customer ID
+FRE,Number of purchase visits
+MON,Total net sales
+CC_CARD,Credit Card User
+AVRG,Average amount spent per visit
+PSWEATERS,Fraction spent on product category
+PKNIT_TOPS,Fraction spent on product category
+PKNIT_DRES,Fraction spent on product category
+PBLOUSES,Fraction spent on product category
+PJACKETS,Fraction spent on product category
+PCAR_PNTS,Fraction spent on product category
+PCAS_PNTS,Fraction spent on product category
+PSHIRTS,Fraction spent on product category
+PDRESSES,Fraction spent on product category
+PSUITS,Fraction spent on product category
+POUTERWEAR,Fraction spent on product category
+PJEWELRY,Fraction spent on product category
+PFASHION,Fraction spent on product category
+PLEGWEAR,Fraction spent on product category
+PCOLLSPND,Fraction spent on product category
+AMSPEND,Amount spent at AM store
+PSSPEND,Amount spent at PS store
+CCSPEND,Amount spent at CC store
+AXSPEND,Amount spent at AX store
+TMONSPEND,Amount spent in the past three months
+OMONSPEND,Amount spent in the past month 
+SMONSPEND,Amount spent in the past six months
+PREVPD,Amount spent the same period last year.
+GMP,Gross margin percentage
+PROMOS,Number of marketing promotions on file
+DAYS,Number of days the customer has been on file
+FREDAYS,Number of days between purchases
+MARKDOWN,Markdown percentage on customer purchases
+CLASSES,Number of different product classes purchased
+COUPONS,Number of coupons used by the customer
+STYLES,Total number of individual items purchased by the customer.
+STORES,Number of stores the customer shopped at
+VALPHON,Flag: valid phone number on file
+WEB,Flag: Web shopper 
+MAILED,Number of promotions mailed in the past year
+RESPONDED,Number of promotions responded to in the past year 
+RESPONSERATE,Promotion response rate for the past year
+HI,Product uniformity
+LTFREDAY,Lifetime average of days between visits
+CLUSTYPE,"Microvision lifestyle cluster type"
+PERCRET,"Percent of returns"
+RESP,Response variable
