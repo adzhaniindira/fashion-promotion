@@ -37,4 +37,9 @@ I decided to use inverse class probabilities as the loss matrix due to following
 ## Model selection and evaluation
 Area Under the Precision-Recall Curve (AUPRC) is used for model evaluation as it does not take into account the negative case, which is more suitable for imbalanced dataset. Based on the AUPRC score, model stack can predict the response variable better than any other model, followed by LightGBM with the second highest AUPRC score.
 
+![image](Images/AUPRC%20score.png)
 ## Insight
+![image](Images/LightGBM%20SHAP%20plot.png)
+
+The variables with highest feature importance are LTFREDAY (lifetime average of days between visits) and DAYS (number of days the customers has been on file). However, those two variables have contradicting effect.
+For LTFREDAY, high value lead to lower output which means that customers with high average days between visits will be less likely to respond to the marketing promotions. In regard to DAYS, the longer a customer has been on the file, the more likely they respond to the promotion.
